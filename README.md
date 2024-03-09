@@ -12,4 +12,3 @@ Now we just added a second page, with:
 
 We Just added a page 3 with
 * A D Pad
-* A button
