@@ -9,3 +9,6 @@ Let's start by creating a Construct project with one page. It contains the follo
 Now we just added a second page, with:
 * Widget containing a keypad
 * a Crestron Logo Image
+
+We Just added a page 3 with
+* A D Pad
